@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "qwe@qwe",
+      "password": "$2a$10$Dk6Cn5mbY1b1xv4CZ1v3JO3CCUJ35PsQ5vQ/W31VRffIAhyxbnYt6",
+      "id": 1
+    },
+    {
+      "email": "qwe1@qwe",
+      "password": "$2a$10$Q6Mc0qKcCMfMeKPUIC6k3ezclaeja15s1F6tOOmaHS5u73Y0nJYBO",
+      "id": 2
+    },
+    {
+      "email": "qwe2@qwe",
+      "password": "$2a$10$RISJDFL9DF9BNax/LC6yseBIDAuuWH.iXLmTDzQPWgpCqhtJBmdLK",
+      "id": 3
+    },
+    {
+      "email": "qwe3@qwe",
+      "password": "$2a$10$W0X2zjoZd7YqNy6F7m4M8.AMrvpqmv2g6t4iDbhp3XAn/mD0F.ZVS",
+      "id": 4
+    },
+    {
+      "email": "qwe4@qwe",
+      "password": "$2a$10$PXb0EashAZCqrR.tNUqvIeEf1XJ4xHNGabjl6h43fBH4aHy1N3a0S",
+      "id": 5
+    },
+    {
+      "email": "qwe66@qwe",
+      "password": "$2a$10$hgmJarSxFQMQ/YhDbd29nubny1/CV45fJPcRGP.iObcCv.dO1ZRo6",
+      "id": 6
+    },
+    {
+      "email": "poi@poi",
+      "password": "$2a$10$M5FGcoEt3wi9SSHG9U3Ue.kfFHBX.KqN0ku6irJUVWMn8/j1rMGj2",
+      "id": 7
+    },
+    {
+      "email": "poi00@poi",
+      "password": "$2a$10$zqPM6xjp7zKm6KEuDu3iCuMM/KrAq3GyBXm9VvMNb4KreeGdEW05i",
+      "id": 8
+    }
+  ]
+}
